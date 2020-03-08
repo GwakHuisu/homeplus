@@ -12,5 +12,5 @@
 * Framework - Spring Framework
 * DB - Oracle(Using Oracle 11g with Sql Developer)
 * Server - Apache Tomcat 8.5
-* other - HTML5 / CSS3 / Javascript / jQuery / Java(1.8.0) / Bootstrap
+* other - HTML5 / CSS3 / Javascript / jQuery / Java(1.8.0) / Bootstrap / Open API
 * image design - photoshop cc
